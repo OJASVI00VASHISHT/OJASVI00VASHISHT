@@ -30,6 +30,13 @@
 
 <p align="left">🧠 Interests<br>AI & Machine Learning 🤖<br><br>Web Development 🕸️<br><br>Backend Development & Databases 🛠️<br><br>Automation & Scripting ⚙️<br><br>📫 Let's Connect<br>I'm always excited to collaborate, learn, or just chat tech. Feel free to reach out or check out my latest projects here on GitHub!</p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OJASVI00VASHISHT/OJASVI00VASHISHT/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OJASVI00VASHISHT/OJASVI00VASHISHT/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OJASVI00VASHISHT/OJASVI00VASHISHT/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
