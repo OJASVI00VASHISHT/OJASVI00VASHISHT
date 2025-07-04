@@ -14,5 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OJASVI00VASHISHT&icon=1&color=8)](https://visitcount.itsvg.in)
-
+[![](https://jitpack.io/v/eigenein/joypad-android.svg)](https://jitpack.io/#eigenein/joypad-android)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
